@@ -7,7 +7,7 @@
 ## Start here
 
 1. Comment on [issue #1](https://github.com/ghTrainingZL/gh-class-sep-2026/issues/1) so you get added to this repository.
-2. Accept the invitation at [https://github.com/ghTrainingZL/gh-class-sep-2026/invitations](https://github.com/ghTrainingZL/gh-class-sep-2026/invitations).
+2. [Accept the repository invitation](https://github.com/ghTrainingZL/gh-class-sep-2026/invitations). You will not be able to change anything until you do.
 3. Work through the activity issues on the [Issues tab](https://github.com/ghTrainingZL/gh-class-sep-2026/issues).
 
 > [!NOTE]
