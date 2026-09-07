@@ -1,0 +1,17 @@
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+  categories:
+    - title: Epics
+      labels:
+        - Epic
+    - title: Features
+      labels:
+        - Feature
+    - title: User Stories
+      labels:
+        - User Story
+    - title: Everything else
+      labels:
+        - "*"
