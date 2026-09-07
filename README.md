@@ -1,60 +1,54 @@
-# GitHub for Developers
+# GitHub for Non-Developers
 
-- Class Date: Sep 10 2026
+- Class date: **Sep 10 2026**
 - Facilitator: @z-larsen
+- Our published slide deck: <https://ghtrainingzl.github.io/gh-class-sep-2026/>
 
-## Class Resources
+## Start here
 
-- [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
-- [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
+1. Comment on [issue #1](https://github.com/ghTrainingZL/gh-class-sep-2026/issues/1) so you get added to this repository.
+2. Accept the invitation at [https://github.com/ghTrainingZL/gh-class-sep-2026/invitations](https://github.com/ghTrainingZL/gh-class-sep-2026/invitations).
+3. Work through the activity issues on the [Issues tab](https://github.com/ghTrainingZL/gh-class-sep-2026/issues).
 
-### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
+> [!NOTE]
+> This repository is public. Please do not put anything confidential in it.
+
+> [!TIP]
+> Getting too much email? Click **Watch** at the top of this page and choose
+> **Participating and @mentions**. We cover notifications properly in the first session.
+
+## Class resources
+
+- [GitHub Training Manual](https://githubtraining.github.io/training-manual/#/), the written version of everything we cover
+- [Understanding the GitHub flow](https://docs.github.com/get-started/using-github/github-flow)
+- [Markdown basics](https://docs.github.com/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Keyboard shortcuts](https://docs.github.com/get-started/using-github/keyboard-shortcuts)
 
 <details>
+<summary>More links, including cheat sheets and tools that show you how branching works</summary>
 
-<summary>More helpful links including videos, cheat sheets, and visualization tools</summary>
+#### Cheat sheets
 
-#### Git
+- [Git cheat sheet, PDF](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [GitHub Docs](https://docs.github.com)
 
-- [Git Cheat Sheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
-- [git-scm](https://git-scm.com)
+#### Seeing how branching actually works
+
+- [Visualizing Git](http://git-school.github.io/visualizing-git/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
+- [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
+
+#### If you want to go further into Git itself
+
+- [Pro Git, the official book](https://git-scm.com/book/en/v2)
 - [Git Katas](https://github.com/praqma-training/gitkatas)
-- [Git Aliases](https://haacked.com/archive/2014/07/28/github-flow-aliases/)
-- [Visuals of Helpful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
-
-#### Review materials & visualization
-
-- [Review videos](https://www.youtube.com/playlist?list=PLg7s6cbtAD16Pgp6WIVfX4VsGI-xyWkMz)
-- [GitSchool - Visualizing Git](http://git-school.github.io/visualizing-git/)
-- [Visualizing Git Concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
-- [Git Viz](https://peleke.github.io/git-viz/)
-- [Git Graph Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-- [LearnGitBranching](http://learngitbranching.js.org/?NODEMO)
-
-#### GitHub Documentation and Help
-
-- [GitHub Webcasts](https://resources.github.com/webcasts/)
-- [Authentication Troubleshooting Guide](https://help.github.com/categories/authenticating-to-github/)
-- [GitHub Help Documentation](https://help.github.com/)
-- [GitHub Enterprise Documentation](https://help.github.com/enterprise/)
-- [Enterprise Support](https://enterprise.github.com/support)
-
-#### Git and IDEs Webcasts
-
-- [GitHub and Visual Studio](https://resources.github.com/webcasts/GitHub-and-Visual-Studio/)
-- [GitHub and IntelliJ IDEs](https://resources.github.com/webcasts/GitHub-and-Intellij-IDEs/)
-- [GitHub and Atom.io](https://resources.github.com/webcasts/GitHub-and-Atom/)
-- [GitHub and Xcode](https://resources.github.com/webcasts/GitHub-and-Xcode/)
-- [GitHub and Eclipse](https://resources.github.com/webcasts/GitHub-and-Eclipse/)
-- [GitHub and GitHub Desktop](https://resources.github.com/webcasts/GitHub-and-GitHub-desktop/)
-- [GitHub and GitKraken](https://youtu.be/awzPi1XLPnU)
 
 </details>
 
-### What's Next?
+## What next
 
-After you have completed this course, you are probably wondering where to go from here:
-
-- [GitHub Learning Lab](https://lab.github.com/): self-paced courses with instant bot-assisted feedback.
-- [Microsoft Learn for GitHub](https://docs.microsoft.com/en-us/learn/github/)
-- [Join the open source community](https://github.com/open-source)
+- [GitHub Skills](https://skills.github.com), free and self paced, most courses take minutes
+- [Microsoft Learn, GitHub courses](https://learn.microsoft.com/training/browse/?products=github)
+- Ask for **triage** access on your own team's repository. It lets you manage issues and
+  pull requests without write access to code, and it is the role most people in this room
+  should have.
